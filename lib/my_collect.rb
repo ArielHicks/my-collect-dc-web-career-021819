@@ -1,4 +1,6 @@
-def my_collect(collection)
   collection = []
+
+def my_collect(collection)
+
 
 end
