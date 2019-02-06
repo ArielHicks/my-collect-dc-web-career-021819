@@ -2,6 +2,6 @@ collection = []
 
 def my_collect(collection)
   collection.collect do |language|
-    language.upcase
+    language.upcase << collection
 
 end
